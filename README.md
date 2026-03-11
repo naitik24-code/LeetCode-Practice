@@ -7,4 +7,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1729-find-followers-count](https://github.com/naitik24-code/LeetCode-Practice/tree/main/1729-find-followers-count/) | Easy |
+| [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/naitik24-code/LeetCode-Practice/tree/main/2356-number-of-unique-subjects-taught-by-each-teacher/) | Easy |
 <!---LeetCode Topics End-->
