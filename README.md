@@ -4,8 +4,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Database
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0596-classes-with-at-least-5-students](https://github.com/naitik24-code/LeetCode-Practice/tree/main/0596-classes-with-at-least-5-students/) | Easy |
 | [0610-triangle-judgement](https://github.com/naitik24-code/LeetCode-Practice/tree/main/0610-triangle-judgement/) | Easy |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/naitik24-code/LeetCode-Practice/tree/main/1141-user-activity-for-the-past-30-days-i/) | Easy |
@@ -16,7 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1978-employees-whose-manager-left-the-company](https://github.com/naitik24-code/LeetCode-Practice/tree/main/1978-employees-whose-manager-left-the-company/) | Easy |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/naitik24-code/LeetCode-Practice/tree/main/2356-number-of-unique-subjects-taught-by-each-teacher/) | Easy |
 ## Math
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0009-palindrome-number](https://github.com/naitik24-code/LeetCode-Practice/tree/main/0009-palindrome-number/) | Easy |
 <!---LeetCode Topics End-->
