@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0610-triangle-judgement](https://github.com/naitik24-code/LeetCode-Practice/tree/main/0610-triangle-judgement/) | Easy |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/naitik24-code/LeetCode-Practice/tree/main/1141-user-activity-for-the-past-30-days-i/) | Easy |
 | [1148-article-views-i](https://github.com/naitik24-code/LeetCode-Practice/tree/master/1148-article-views-i) |
+| [1683-invalid-tweets](https://github.com/naitik24-code/LeetCode-Practice/tree/master/1683-invalid-tweets) |
 | [1729-find-followers-count](https://github.com/naitik24-code/LeetCode-Practice/tree/main/1729-find-followers-count/) | Easy |
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/naitik24-code/LeetCode-Practice/tree/main/1731-the-number-of-employees-which-report-to-each-employee/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/naitik24-code/LeetCode-Practice/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
