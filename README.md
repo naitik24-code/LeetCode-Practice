@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0584-find-customer-referee](https://github.com/naitik24-code/LeetCode-Practice/tree/master/0584-find-customer-referee) |
+| [0595-big-countries](https://github.com/naitik24-code/LeetCode-Practice/tree/master/0595-big-countries) |
 | [0596-classes-with-at-least-5-students](https://github.com/naitik24-code/LeetCode-Practice/tree/main/0596-classes-with-at-least-5-students/) | Easy |
 | [0610-triangle-judgement](https://github.com/naitik24-code/LeetCode-Practice/tree/main/0610-triangle-judgement/) | Easy |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/naitik24-code/LeetCode-Practice/tree/main/1141-user-activity-for-the-past-30-days-i/) | Easy |
