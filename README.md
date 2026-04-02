@@ -43,8 +43,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/naitik24-code/LeetCode-Practice/tree/master/0088-merge-sorted-array) |
+| [0605-can-place-flowers](https://github.com/naitik24-code/LeetCode-Practice/tree/master/0605-can-place-flowers) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/naitik24-code/LeetCode-Practice/tree/master/0088-merge-sorted-array) |
+## Greedy
+|  |
+| ------- |
+| [0605-can-place-flowers](https://github.com/naitik24-code/LeetCode-Practice/tree/master/0605-can-place-flowers) |
 <!---LeetCode Topics End-->
