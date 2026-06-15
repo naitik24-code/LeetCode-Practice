@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/naitik24-code/LeetCode-Practice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/naitik24-code/LeetCode-Practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/naitik24-code/LeetCode-Practice/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1768-merge-strings-alternately](https://github.com/naitik24-code/LeetCode-Practice/tree/master/1768-merge-strings-alternately) |
@@ -69,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/naitik24-code/LeetCode-Practice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0169-majority-element](https://github.com/naitik24-code/LeetCode-Practice/tree/master/0169-majority-element) |
 ## Divide and Conquer
 |  |
@@ -78,4 +80,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/naitik24-code/LeetCode-Practice/tree/master/0169-majority-element) |
+## Backtracking
+|  |
+| ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/naitik24-code/LeetCode-Practice/tree/master/0017-letter-combinations-of-a-phone-number) |
 <!---LeetCode Topics End-->
