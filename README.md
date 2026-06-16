@@ -57,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/naitik24-code/LeetCode-Practice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/naitik24-code/LeetCode-Practice/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/naitik24-code/LeetCode-Practice/tree/master/0169-majority-element) |
+| [0200-number-of-islands](https://github.com/naitik24-code/LeetCode-Practice/tree/master/0200-number-of-islands) |
 | [0605-can-place-flowers](https://github.com/naitik24-code/LeetCode-Practice/tree/master/0605-can-place-flowers) |
 ## Sorting
 |  |
@@ -84,4 +85,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/naitik24-code/LeetCode-Practice/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Depth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/naitik24-code/LeetCode-Practice/tree/master/0200-number-of-islands) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/naitik24-code/LeetCode-Practice/tree/master/0200-number-of-islands) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/naitik24-code/LeetCode-Practice/tree/master/0200-number-of-islands) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/naitik24-code/LeetCode-Practice/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
