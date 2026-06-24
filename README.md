@@ -46,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/naitik24-code/LeetCode-Practice/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0242-valid-anagram](https://github.com/naitik24-code/LeetCode-Practice/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/naitik24-code/LeetCode-Practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/naitik24-code/LeetCode-Practice/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1768-merge-strings-alternately](https://github.com/naitik24-code/LeetCode-Practice/tree/master/1768-merge-strings-alternately) |
@@ -66,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/naitik24-code/LeetCode-Practice/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/naitik24-code/LeetCode-Practice/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/naitik24-code/LeetCode-Practice/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/naitik24-code/LeetCode-Practice/tree/master/0242-valid-anagram) |
 ## Greedy
 |  |
 | ------- |
@@ -76,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0017-letter-combinations-of-a-phone-number](https://github.com/naitik24-code/LeetCode-Practice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0169-majority-element](https://github.com/naitik24-code/LeetCode-Practice/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/naitik24-code/LeetCode-Practice/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/naitik24-code/LeetCode-Practice/tree/master/0242-valid-anagram) |
 ## Divide and Conquer
 |  |
 | ------- |
