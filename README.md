@@ -63,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/naitik24-code/LeetCode-Practice/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/naitik24-code/LeetCode-Practice/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/naitik24-code/LeetCode-Practice/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/naitik24-code/LeetCode-Practice/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/naitik24-code/LeetCode-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0605-can-place-flowers](https://github.com/naitik24-code/LeetCode-Practice/tree/master/0605-can-place-flowers) |
 ## Sorting
@@ -130,4 +131,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/naitik24-code/LeetCode-Practice/tree/master/0347-top-k-frequent-elements) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/naitik24-code/LeetCode-Practice/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
