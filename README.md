@@ -58,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/naitik24-code/LeetCode-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/naitik24-code/LeetCode-Practice/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/naitik24-code/LeetCode-Practice/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/naitik24-code/LeetCode-Practice/tree/master/0053-maximum-subarray) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/naitik24-code/LeetCode-Practice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/naitik24-code/LeetCode-Practice/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/naitik24-code/LeetCode-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -93,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/naitik24-code/LeetCode-Practice/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/naitik24-code/LeetCode-Practice/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/naitik24-code/LeetCode-Practice/tree/master/0347-top-k-frequent-elements) |
 ## Counting
@@ -139,5 +141,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/naitik24-code/LeetCode-Practice/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/naitik24-code/LeetCode-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
