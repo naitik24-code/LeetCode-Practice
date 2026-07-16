@@ -50,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/naitik24-code/LeetCode-Practice/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/naitik24-code/LeetCode-Practice/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/naitik24-code/LeetCode-Practice/tree/master/0345-reverse-vowels-of-a-string) |
+| [0424-longest-repeating-character-replacement](https://github.com/naitik24-code/LeetCode-Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/naitik24-code/LeetCode-Practice/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1768-merge-strings-alternately](https://github.com/naitik24-code/LeetCode-Practice/tree/master/1768-merge-strings-alternately) |
 ## Array
@@ -94,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/naitik24-code/LeetCode-Practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/naitik24-code/LeetCode-Practice/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/naitik24-code/LeetCode-Practice/tree/master/0347-top-k-frequent-elements) |
+| [0424-longest-repeating-character-replacement](https://github.com/naitik24-code/LeetCode-Practice/tree/master/0424-longest-repeating-character-replacement) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -151,4 +153,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/naitik24-code/LeetCode-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/naitik24-code/LeetCode-Practice/tree/master/0424-longest-repeating-character-replacement) |
 <!---LeetCode Topics End-->
