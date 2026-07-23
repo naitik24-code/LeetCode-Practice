@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/naitik24-code/LeetCode-Practice/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/naitik24-code/LeetCode-Practice/tree/master/0125-valid-palindrome) |
 | [0345-reverse-vowels-of-a-string](https://github.com/naitik24-code/LeetCode-Practice/tree/master/0345-reverse-vowels-of-a-string) |
+| [0443-string-compression](https://github.com/naitik24-code/LeetCode-Practice/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/naitik24-code/LeetCode-Practice/tree/master/0567-permutation-in-string) |
 | [1768-merge-strings-alternately](https://github.com/naitik24-code/LeetCode-Practice/tree/master/1768-merge-strings-alternately) |
 ## String
@@ -57,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/naitik24-code/LeetCode-Practice/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/naitik24-code/LeetCode-Practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/naitik24-code/LeetCode-Practice/tree/master/0424-longest-repeating-character-replacement) |
+| [0443-string-compression](https://github.com/naitik24-code/LeetCode-Practice/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/naitik24-code/LeetCode-Practice/tree/master/0567-permutation-in-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/naitik24-code/LeetCode-Practice/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1768-merge-strings-alternately](https://github.com/naitik24-code/LeetCode-Practice/tree/master/1768-merge-strings-alternately) |
