@@ -180,4 +180,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0162-find-peak-element](https://github.com/naitik24-code/LeetCode-Practice/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/naitik24-code/LeetCode-Practice/tree/master/0209-minimum-size-subarray-sum) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/naitik24-code/LeetCode-Practice/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/naitik24-code/LeetCode-Practice/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
