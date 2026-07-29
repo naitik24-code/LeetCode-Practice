@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/naitik24-code/LeetCode-Practice/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/naitik24-code/LeetCode-Practice/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/naitik24-code/LeetCode-Practice/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/naitik24-code/LeetCode-Practice/tree/master/0142-linked-list-cycle-ii) |
 | [0345-reverse-vowels-of-a-string](https://github.com/naitik24-code/LeetCode-Practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/naitik24-code/LeetCode-Practice/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/naitik24-code/LeetCode-Practice/tree/master/0567-permutation-in-string) |
@@ -108,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/naitik24-code/LeetCode-Practice/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/naitik24-code/LeetCode-Practice/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/naitik24-code/LeetCode-Practice/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/naitik24-code/LeetCode-Practice/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/naitik24-code/LeetCode-Practice/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/naitik24-code/LeetCode-Practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/naitik24-code/LeetCode-Practice/tree/master/0242-valid-anagram) |
@@ -189,6 +191,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/naitik24-code/LeetCode-Practice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/naitik24-code/LeetCode-Practice/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/naitik24-code/LeetCode-Practice/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/naitik24-code/LeetCode-Practice/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/naitik24-code/LeetCode-Practice/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
