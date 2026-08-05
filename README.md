@@ -91,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/naitik24-code/LeetCode-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/naitik24-code/LeetCode-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/naitik24-code/LeetCode-Practice/tree/master/0605-can-place-flowers) |
+| [0739-daily-temperatures](https://github.com/naitik24-code/LeetCode-Practice/tree/master/0739-daily-temperatures) |
 ## Sorting
 |  |
 | ------- |
@@ -213,6 +214,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0143-reorder-list](https://github.com/naitik24-code/LeetCode-Practice/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/naitik24-code/LeetCode-Practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/naitik24-code/LeetCode-Practice/tree/master/0155-min-stack) |
+| [0739-daily-temperatures](https://github.com/naitik24-code/LeetCode-Practice/tree/master/0739-daily-temperatures) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -221,4 +223,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/naitik24-code/LeetCode-Practice/tree/master/0155-min-stack) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/naitik24-code/LeetCode-Practice/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
