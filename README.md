@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0009-palindrome-number](https://github.com/naitik24-code/LeetCode-Practice/tree/main/0009-palindrome-number/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/naitik24-code/LeetCode-Practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/naitik24-code/LeetCode-Practice/tree/master/0189-rotate-array) |
+| [0509-fibonacci-number](https://github.com/naitik24-code/LeetCode-Practice/tree/master/0509-fibonacci-number) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/naitik24-code/LeetCode-Practice/tree/master/1071-greatest-common-divisor-of-strings) |
 ## Two Pointers
 |  |
@@ -202,6 +203,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/naitik24-code/LeetCode-Practice/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/naitik24-code/LeetCode-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/naitik24-code/LeetCode-Practice/tree/master/0198-house-robber) |
+| [0509-fibonacci-number](https://github.com/naitik24-code/LeetCode-Practice/tree/master/0509-fibonacci-number) |
 ## Sliding Window
 |  |
 | ------- |
@@ -231,6 +233,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0021-merge-two-sorted-lists](https://github.com/naitik24-code/LeetCode-Practice/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/naitik24-code/LeetCode-Practice/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/naitik24-code/LeetCode-Practice/tree/master/0206-reverse-linked-list) |
+| [0509-fibonacci-number](https://github.com/naitik24-code/LeetCode-Practice/tree/master/0509-fibonacci-number) |
 ## Stack
 |  |
 | ------- |
@@ -252,4 +255,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/naitik24-code/LeetCode-Practice/tree/master/0739-daily-temperatures) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/naitik24-code/LeetCode-Practice/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
