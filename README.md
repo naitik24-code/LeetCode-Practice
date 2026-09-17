@@ -74,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0443-string-compression](https://github.com/naitik24-code/LeetCode-Practice/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/naitik24-code/LeetCode-Practice/tree/master/0567-permutation-in-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/naitik24-code/LeetCode-Practice/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/naitik24-code/LeetCode-Practice/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1768-merge-strings-alternately](https://github.com/naitik24-code/LeetCode-Practice/tree/master/1768-merge-strings-alternately) |
 ## Array
 |  |
@@ -229,6 +230,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0150-evaluate-reverse-polish-notation](https://github.com/naitik24-code/LeetCode-Practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/naitik24-code/LeetCode-Practice/tree/master/0155-min-stack) |
 | [0739-daily-temperatures](https://github.com/naitik24-code/LeetCode-Practice/tree/master/0739-daily-temperatures) |
+| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/naitik24-code/LeetCode-Practice/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 ## Bracket Sequences
 |  |
 | ------- |
