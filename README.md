@@ -161,6 +161,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/naitik24-code/LeetCode-Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0200-number-of-islands](https://github.com/naitik24-code/LeetCode-Practice/tree/master/0200-number-of-islands) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/naitik24-code/LeetCode-Practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Breadth-First Search
@@ -243,6 +244,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0020-valid-parentheses](https://github.com/naitik24-code/LeetCode-Practice/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/naitik24-code/LeetCode-Practice/tree/master/0143-reorder-list) |
+| [0144-binary-tree-preorder-traversal](https://github.com/naitik24-code/LeetCode-Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/naitik24-code/LeetCode-Practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/naitik24-code/LeetCode-Practice/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/naitik24-code/LeetCode-Practice/tree/master/0234-palindrome-linked-list) |
@@ -267,10 +269,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Tree
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/naitik24-code/LeetCode-Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/naitik24-code/LeetCode-Practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/naitik24-code/LeetCode-Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/naitik24-code/LeetCode-Practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Binary Lifting
 |  |
