@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0143-reorder-list](https://github.com/naitik24-code/LeetCode-Practice/tree/master/0143-reorder-list) |
 | [0151-reverse-words-in-a-string](https://github.com/naitik24-code/LeetCode-Practice/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/naitik24-code/LeetCode-Practice/tree/master/0189-rotate-array) |
+| [0234-palindrome-linked-list](https://github.com/naitik24-code/LeetCode-Practice/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/naitik24-code/LeetCode-Practice/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/naitik24-code/LeetCode-Practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/naitik24-code/LeetCode-Practice/tree/master/0443-string-compression) |
@@ -226,6 +227,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0142-linked-list-cycle-ii](https://github.com/naitik24-code/LeetCode-Practice/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/naitik24-code/LeetCode-Practice/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/naitik24-code/LeetCode-Practice/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/naitik24-code/LeetCode-Practice/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/naitik24-code/LeetCode-Practice/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
@@ -233,6 +235,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0021-merge-two-sorted-lists](https://github.com/naitik24-code/LeetCode-Practice/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/naitik24-code/LeetCode-Practice/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/naitik24-code/LeetCode-Practice/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/naitik24-code/LeetCode-Practice/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/naitik24-code/LeetCode-Practice/tree/master/0509-fibonacci-number) |
 ## Stack
 |  |
@@ -241,6 +244,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0143-reorder-list](https://github.com/naitik24-code/LeetCode-Practice/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/naitik24-code/LeetCode-Practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/naitik24-code/LeetCode-Practice/tree/master/0155-min-stack) |
+| [0234-palindrome-linked-list](https://github.com/naitik24-code/LeetCode-Practice/tree/master/0234-palindrome-linked-list) |
 | [0739-daily-temperatures](https://github.com/naitik24-code/LeetCode-Practice/tree/master/0739-daily-temperatures) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/naitik24-code/LeetCode-Practice/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 ## Bracket Sequences
