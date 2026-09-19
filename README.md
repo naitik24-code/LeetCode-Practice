@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0509-fibonacci-number](https://github.com/naitik24-code/LeetCode-Practice/tree/master/0509-fibonacci-number) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/naitik24-code/LeetCode-Practice/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/naitik24-code/LeetCode-Practice/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [3280-convert-date-to-binary](https://github.com/naitik24-code/LeetCode-Practice/tree/master/3280-convert-date-to-binary) |
 ## Two Pointers
 |  |
 | ------- |
@@ -81,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1071-greatest-common-divisor-of-strings](https://github.com/naitik24-code/LeetCode-Practice/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/naitik24-code/LeetCode-Practice/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1768-merge-strings-alternately](https://github.com/naitik24-code/LeetCode-Practice/tree/master/1768-merge-strings-alternately) |
+| [3280-convert-date-to-binary](https://github.com/naitik24-code/LeetCode-Practice/tree/master/3280-convert-date-to-binary) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/naitik24-code/LeetCode-Practice/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Array
 |  |
