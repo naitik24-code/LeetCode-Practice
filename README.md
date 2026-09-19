@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/naitik24-code/LeetCode-Practice/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/naitik24-code/LeetCode-Practice/tree/master/0509-fibonacci-number) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/naitik24-code/LeetCode-Practice/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/naitik24-code/LeetCode-Practice/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Two Pointers
 |  |
 | ------- |
@@ -232,6 +233,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0206-reverse-linked-list](https://github.com/naitik24-code/LeetCode-Practice/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/naitik24-code/LeetCode-Practice/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/naitik24-code/LeetCode-Practice/tree/master/0876-middle-of-the-linked-list) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/naitik24-code/LeetCode-Practice/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Recursion
 |  |
 | ------- |
