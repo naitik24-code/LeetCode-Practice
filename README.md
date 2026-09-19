@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/naitik24-code/LeetCode-Practice/tree/main/0009-palindrome-number/) | Easy |
+| [0067-add-binary](https://github.com/naitik24-code/LeetCode-Practice/tree/master/0067-add-binary) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/naitik24-code/LeetCode-Practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0172-factorial-trailing-zeroes](https://github.com/naitik24-code/LeetCode-Practice/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/naitik24-code/LeetCode-Practice/tree/master/0189-rotate-array) |
@@ -69,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0017-letter-combinations-of-a-phone-number](https://github.com/naitik24-code/LeetCode-Practice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/naitik24-code/LeetCode-Practice/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/naitik24-code/LeetCode-Practice/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/naitik24-code/LeetCode-Practice/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/naitik24-code/LeetCode-Practice/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/naitik24-code/LeetCode-Practice/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/naitik24-code/LeetCode-Practice/tree/master/0151-reverse-words-in-a-string) |
@@ -289,4 +291,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/naitik24-code/LeetCode-Practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/naitik24-code/LeetCode-Practice/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/naitik24-code/LeetCode-Practice/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
