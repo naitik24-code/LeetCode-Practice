@@ -70,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0017-letter-combinations-of-a-phone-number](https://github.com/naitik24-code/LeetCode-Practice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/naitik24-code/LeetCode-Practice/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/naitik24-code/LeetCode-Practice/tree/master/0049-group-anagrams) |
+| [0058-length-of-last-word](https://github.com/naitik24-code/LeetCode-Practice/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/naitik24-code/LeetCode-Practice/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/naitik24-code/LeetCode-Practice/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/naitik24-code/LeetCode-Practice/tree/master/0125-valid-palindrome) |
